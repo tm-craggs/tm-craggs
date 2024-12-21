@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**tm-craggs/tm-craggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Thomas**, nice to meet you! 😊
 
-Here are some ideas to get you started:
+‍🎓 I'm currently a **Computer Science** student at **City, University of London**
+💼 I also work as a part time programming tutor @ **Code Ninjas!**
+✨ Feel free to check out what I’m working on, I post all my **notes**, **assignments**, and **passion projects** here!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills 🚀
+
+**Languages** 🖥️
+
+- Java ☕
+- Python 🐍
+- C# 💜
+- SQL 🗄️
+- HTML + CSS 🎨
+
+**Tools** 🛠️
+
+- Linux 🐧
+- Git 🌱
+- Unity 🎮
+- JetBrains IDEs 👨‍💻
