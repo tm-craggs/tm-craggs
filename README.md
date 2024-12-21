@@ -11,17 +11,17 @@ I'm **Thomas**, nice to meet you! 😊
 
 ## My Skills 🚀
 
-**Languages** 🖥️
+**Languages**
 
 - Java ☕
 - Python 🐍
 - C# 💜
 - SQL 🗄️
-- HTML + CSS 🎨
+- HTML + CSS 🌐
 
-**Tools** 🛠️
+**Tools**
 
 - Linux 🐧
 - Git 🌱
 - Unity 🎮
-- JetBrains IDEs 👨‍💻
+- JetBrains IDEs 🛠️
