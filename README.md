@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 I'm **Thomas**, nice to meet you! 😊
 
