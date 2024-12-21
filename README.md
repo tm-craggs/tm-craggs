@@ -8,6 +8,7 @@ I'm **Thomas**, nice to meet you! 😊
 
 ✨ Feel free to check out what I’m working on, I post all my **notes**, **assignments**, and **passion projects** here!
 
+
 ## My Skills 🚀
 
 **Languages** 🖥️
