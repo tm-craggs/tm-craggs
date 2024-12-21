@@ -26,6 +26,4 @@ I'm **Thomas**, nice to meet you! 😊
 - Unity 🎮
 - JetBrains IDEs 👨‍💻
 
-\n
-\n
 Profile picture created using Picrew: @flowerels
