@@ -2,7 +2,7 @@
 
 I'm **Thomas**, nice to meet you! 😊
 
-‍🎓 I'm currently a **Computer Science** student at **City, University of London**
+‍🎓 I'm currently a **Computer Science** student @ **City, University of London**
 
 💼 I also work as a part time programming tutor @ **Code Ninjas!**
 
