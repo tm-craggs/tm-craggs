@@ -23,5 +23,5 @@ I'm **Thomas**, nice to meet you! 😊
 
 - Linux 🐧
 - Git 🌱
-- Unity 🎮
+- Godot 🎮
 - JetBrains IDEs 🛠️
