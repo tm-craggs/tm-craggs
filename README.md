@@ -22,5 +22,5 @@ I'm **Thomas**, nice to meet you! 😊
 
 - Linux 🐧
 - Git 🌱
-- Godot 🎮
+- Godot Game Engine 🤖
 - JetBrains IDEs 🛠️
