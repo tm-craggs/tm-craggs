@@ -15,7 +15,6 @@ I'm **Thomas**, nice to meet you! 😊
 
 - Java ☕
 - Python 🐍
-- C# 💜
 - SQL 🗄️
 - HTML + CSS 🌐
 
