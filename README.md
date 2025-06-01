@@ -13,14 +13,8 @@ I'm **Thomas**, nice to meet you! 😊
 
 **Languages**
 
+- Go 💨
 - Java ☕
 - Python 🐍
 - SQL 🗄️
 - HTML + CSS 🌐
-
-**Tools**
-
-- Linux 🐧
-- Git 🌱
-- Godot Game Engine 🤖
-- JetBrains IDEs 🛠️
