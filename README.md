@@ -1,20 +1,23 @@
-## Hi there! 👋
+# Hiya! 👋
 
-I'm **Thomas**, nice to meet you! 😊
+I'm Tom, you've reached my GitHub homepage.
 
-‍🎓 I'm currently a **Computer Science** student @ **City, University of London**
+#### About me
 
-💼 I also work as a part time programming tutor @ **Code Ninjas!**
+- I am a Computer Science student @ **City, University of London**
+- I
 
-✨ Feel free to check out what I’m working on, I post all my **notes**, **assignments**, and **passion projects** here!
+#### My Skills
 
+- Golang
+- Java
+- Python
+- SQL
+- Linux
+- Homelabbing
 
-## My Skills 🚀
+Feel free to check out what I've been working on! Here are some of my highlights.
 
-**Languages**
-
-- Go 💨
-- Java ☕
-- Python 🐍
-- SQL 🗄️
-- HTML + CSS 🌐
+- TidyTask - A simple command line tool for managing your to-do list, designed for miminalist, Linux based workflows.
+- devnote - A tool designed for logging deve
+- Dear Data - 
